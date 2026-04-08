@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Phoenix Plumbers & Drain Clean Services",
+    "phone": "+15204821068",
+    "category": "plumbing company",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Phoenix Plumbing Experts",
+      "heroSubline": "Reliable plumbing services across the Valley. Licensed, insured, and ready to solve your toughest problems.",
+      "aboutTitle": "Dependable Plumbing Solutions in Phoenix",
+      "aboutText": [
+        "Phoenix Plumbers & Drain Clean Services started with a simple goal: provide honest, reliable plumbing at a fair price. We're a family-owned business rooted in the Phoenix community.",
+        "We tackle every job, big or small, with the same dedication and attention to detail. Our plumbers are trained to diagnose problems accurately and offer the most effective solutions, not just the most expensive.",
+        "We're proud to serve our neighbors throughout Phoenix and the surrounding areas. Giving back to the community that supports us is important, and we actively participate in local initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait, and neither do we. We're available around the clock to handle urgent repairs."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our plumbers have years of experience working on Phoenix homes, understanding the unique challenges of our local infrastructure."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear, detailed estimates before starting any work, so you know exactly what to expect."
+        },
+        {
+          "title": "Guaranteed Work",
+          "description": "We stand behind our work and ensure your complete satisfaction. If something isn't right, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Today",
+      "ctaSubline": "Call now for fast, reliable service you can trust."
+    },
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Fast and effective drain cleaning to keep your pipes flowing freely.",
+        "description": "Clogged drains are a common nuisance in Phoenix, often caused by mineral buildup from our hard water, monsoon season debris washing into sewer lines, and the usual culprits like hair and grease. Phoenix Plumbers & Drain Clean Services offers comprehensive drain cleaning services to clear any blockage, from a simple sink clog to a completely blocked sewer line. \n\nOur experienced plumbers use a variety of methods, including drain snakes, hydro-jetting, and video camera inspections, to accurately diagnose the problem and choose the most effective solution. We handle everything from kitchen sinks and bathroom drains to main sewer lines and storm drains. We’ll not only clear the blockage but also inspect your pipes for any underlying issues that could cause future problems. \n\nDon't let a clogged drain disrupt your day. Call Phoenix Plumbers & Drain Clean Services for fast, reliable drain cleaning services.",
+        "process": [
+          "Step 1: Diagnose the Clog",
+          "Step 2: Select the Appropriate Cleaning Method",
+          "Step 3: Clear the Blockage",
+          "Step 4: Inspect and Test the Drain"
+        ],
+        "benefits": [
+          "Fast and Effective Drain Clearing",
+          "Prevention of Future Clogs",
+          "Improved Drainage and Water Flow",
+          "Protection of Your Plumbing System"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I have a clogged drain?",
+            "answer": "Common signs include slow drainage, gurgling sounds coming from the drain, and foul odors."
+          },
+          {
+            "question": "What is hydro-jetting?",
+            "answer": "Hydro-jetting uses high-pressure water to blast away stubborn blockages and buildup from the inside of your pipes."
+          },
+          {
+            "question": "How can I prevent clogged drains?",
+            "answer": "Avoid pouring grease down the drain, use drain strainers to catch hair and debris, and flush your drains regularly with hot water."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair & Replacement",
+        "shortDescription": "Expert water heater services to keep your hot water flowing.",
+        "description": "Phoenix's extreme summer heat puts a strain on water heaters, leading to premature failure and inconsistent performance. Phoenix Plumbers & Drain Clean Services provides comprehensive water heater repair and replacement services for all types of units, including traditional tank heaters and tankless models. \n\nOur skilled technicians can diagnose any issue, from a simple thermostat problem to a major leak. We offer fast, reliable repairs to get your hot water back up and running quickly. If your water heater is beyond repair or nearing the end of its lifespan, we can help you choose the right replacement unit for your needs and budget. We handle the entire installation process, ensuring proper venting and safety compliance. \n\nWe also offer preventative maintenance services to extend the life of your water heater and prevent costly repairs. Regular flushing and inspections can help remove sediment buildup and identify potential problems before they escalate.",
+        "process": [
+          "Step 1: Diagnose the Problem",
+          "Step 2: Provide Repair or Replacement Options",
+          "Step 3: Perform Necessary Repairs or Installation",
+          "Step 4: Test and Ensure Proper Function"
+        ],
+        "benefits": [
+          "Reliable Hot Water Supply",
+          "Energy Efficiency",
+          "Extended Water Heater Lifespan",
+          "Safe and Compliant Installation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last in Phoenix?",
+            "answer": "Due to the hard water and high usage, water heaters in Phoenix typically last 8-12 years."
+          },
+          {
+            "question": "What are the signs that my water heater needs to be replaced?",
+            "answer": "Common signs include rusty water, strange noises, leaks, and inconsistent water temperature."
+          },
+          {
+            "question": "What is a tankless water heater?",
+            "answer": "Tankless water heaters heat water on demand, providing endless hot water and saving energy."
+          }
+        ]
+      },
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection",
+        "shortDescription": "Advanced leak detection services to prevent costly water damage.",
+        "description": "Hidden leaks can cause significant damage to your Phoenix home, especially with our prevalent stucco and tile roof construction. Undetected leaks can lead to mold growth, structural damage, and sky-high water bills. Phoenix Plumbers & Drain Clean Services uses advanced leak detection technology to pinpoint the source of any leak, no matter how hidden. \n\nOur experienced technicians use acoustic listening devices, infrared cameras, and other specialized tools to locate leaks behind walls, under floors, and in underground pipes. We can accurately identify the source of the leak without causing unnecessary damage to your property. Once the leak is located, we provide expert repair services to stop the leak and prevent further damage. \n\nDon't let a hidden leak drain your wallet and damage your home. Call Phoenix Plumbers & Drain Clean Services for professional leak detection services.",
+        "process": [
+          "Step 1: Conduct a Thorough Inspection",
+          "Step 2: Utilize Advanced Leak Detection Equipment",
+          "Step 3: Pinpoint the Source of the Leak",
+          "Step 4: Provide Repair Solutions"
+        ],
+        "benefits": [
+          "Accurate Leak Detection",
+          "Prevention of Water Damage",
+          "Reduced Water Bills",
+          "Protection of Your Property"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, damp spots on walls or ceilings, and the sound of running water when no fixtures are in use."
+          },
+          {
+            "question": "What is acoustic leak detection?",
+            "answer": "Acoustic leak detection uses sensitive microphones to listen for the sound of water escaping from a pipe."
+          },
+          {
+            "question": "How much does leak detection cost?",
+            "answer": "The cost of leak detection varies depending on the complexity of the job. We provide upfront estimates before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "pipe-repair",
+        "name": "Pipe Repair & Replacement",
+        "shortDescription": "Reliable pipe repair and replacement services for lasting solutions.",
+        "description": "Phoenix's aging infrastructure and hard water can lead to pipe corrosion and leaks. Phoenix Plumbers & Drain Clean Services offers comprehensive pipe repair and replacement services to address any plumbing issue, from minor leaks to major pipe bursts. \n\nOur experienced plumbers can repair or replace damaged pipes using a variety of materials, including copper, PVC, and PEX. We use the latest techniques and technologies to ensure a durable and long-lasting repair. We handle everything from small sections of damaged pipe to complete re-piping projects. We understand the disruption that plumbing problems can cause, and we work quickly and efficiently to minimize the impact on your daily life. \n\nWe also offer preventative maintenance services to help extend the life of your pipes and prevent future problems. Regular inspections can help identify potential issues before they escalate into costly repairs.",
+        "process": [
+          "Step 1: Assess the Damage",
+          "Step 2: Select the Appropriate Repair or Replacement Method",
+          "Step 3: Perform the Necessary Work",
+          "Step 4: Test and Ensure Proper Function"
+        ],
+        "benefits": [
+          "Durable and Long-Lasting Repairs",
+          "Prevention of Future Leaks",
+          "Improved Water Quality",
+          "Protection of Your Property"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs that my pipes need to be repaired or replaced?",
+            "answer": "Common signs include leaks, rusty water, low water pressure, and frequent clogs."
+          },
+          {
+            "question": "What is PEX piping?",
+            "answer": "PEX piping is a flexible plastic tubing that is resistant to corrosion and can be used for both hot and cold water lines."
+          },
+          {
+            "question": "How long does pipe repair or replacement take?",
+            "answer": "The time required for pipe repair or replacement varies depending on the complexity of the job. We provide upfront estimates before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-services",
+        "name": "Sewer Line Services",
+        "shortDescription": "Expert sewer line repair, replacement, and cleaning.",
+        "description": "Sewer line problems can be a homeowner's worst nightmare. Issues like tree root intrusion, shifting soil, and the age of the original clay or cast iron pipes common in older Phoenix neighborhoods can cause blockages, leaks, and even complete sewer line collapse. Phoenix Plumbers & Drain Clean Services offers comprehensive sewer line services to address any issue, from minor clogs to complete sewer line replacement. \n\nWe use advanced techniques like trenchless sewer repair, which minimizes digging and disruption to your property. Our experienced technicians can diagnose the problem using video camera inspections and recommend the most effective solution. We handle everything from clearing blockages and repairing leaks to replacing damaged sewer lines. We understand the urgency of sewer line problems, and we offer fast, reliable service to minimize the impact on your home and family. \n\nPreventative maintenance, such as regular sewer line cleaning, can help prevent costly repairs and extend the life of your sewer line. We offer hydro-jetting services to clear away buildup and debris and keep your sewer line flowing freely.",
+        "process": [
+          "Step 1: Video Camera Inspection",
+          "Step 2: Diagnose the Problem",
+          "Step 3: Select the Appropriate Repair or Replacement Method",
+          "Step 4: Perform the Necessary Work"
+        ],
+        "benefits": [
+          "Effective Sewer Line Solutions",
+          "Prevention of Costly Repairs",
+          "Minimal Disruption to Your Property",
+          "Improved Sanitation"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Common signs include sewage backups, slow-draining toilets, and foul odors coming from your drains."
+          },
+          {
+            "question": "What is trenchless sewer repair?",
+            "answer": "Trenchless sewer repair uses specialized equipment to repair or replace sewer lines without digging a large trench."
+          },
+          {
+            "question": "How often should I have my sewer line cleaned?",
+            "answer": "We recommend having your sewer line cleaned every 1-2 years to prevent blockages and buildup."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, sinks, toilets, and more.",
+        "description": "Upgrading your fixtures can improve the look and functionality of your Phoenix home. Phoenix Plumbers & Drain Clean Services offers professional fixture installation services for faucets, sinks, toilets, showers, and more. \n\nOur experienced plumbers can install any type of fixture, from basic models to high-end designer pieces. We handle the entire installation process, ensuring proper connections and leak-free performance. We can also help you choose the right fixtures for your needs and budget. Whether you're remodeling your bathroom or simply replacing a worn-out faucet, we provide expert installation services to ensure a perfect fit and long-lasting performance. \n\nWe understand the importance of proper installation, and we take the time to do the job right. We also offer removal and disposal services for your old fixtures.",
+        "process": [
+          "Step 1: Remove Existing Fixture",
+          "Step 2: Prepare the Installation Area",
+          "Step 3: Install the New Fixture",
+          "Step 4: Test and Ensure Proper Function"
+        ],
+        "benefits": [
+          "Professional Installation",
+          "Leak-Free Performance",
+          "Improved Home Value",
+          "Enhanced Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "Can you install fixtures that I purchased myself?",
+            "answer": "Yes, we can install fixtures that you purchased yourself, or we can help you choose the right fixtures for your needs."
+          },
+          {
+            "question": "Do you offer a warranty on your fixture installation services?",
+            "answer": "Yes, we offer a warranty on our workmanship."
+          },
+          {
+            "question": "How long does fixture installation take?",
+            "answer": "The time required for fixture installation varies depending on the type of fixture and the complexity of the job. We provide upfront estimates before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-plumbing",
+        "name": "Emergency Plumbing Services",
+        "shortDescription": "24/7 emergency plumbing services for urgent issues.",
+        "description": "Plumbing emergencies can happen at any time, and they often require immediate attention to prevent further damage. Phoenix Plumbers & Drain Clean Services offers 24/7 emergency plumbing services to address urgent issues like burst pipes, sewage backups, and gas leaks. \n\nOur experienced plumbers are available around the clock to respond to your emergency. We arrive quickly, assess the situation, and take immediate action to minimize damage and restore your plumbing system. We handle all types of plumbing emergencies, from minor leaks to major disasters. We understand the stress and anxiety that plumbing emergencies can cause, and we provide compassionate and professional service to help you get through it. \n\nDon't hesitate to call us any time, day or night, for fast, reliable emergency plumbing services. We're here to help you when you need us most.",
+        "process": [
+          "Step 1: Immediate Response",
+          "Step 2: Assess the Situation",
+          "Step 3: Take Immediate Action to Minimize Damage",
+          "Step 4: Provide Repair Solutions"
+        ],
+        "benefits": [
+          "24/7 Availability",
+          "Fast Response Time",
+          "Experienced Technicians",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a plumbing emergency?",
+            "answer": "A plumbing emergency is any situation that poses an immediate threat to your property or safety, such as a burst pipe, sewage backup, or gas leak."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within an hour."
+          },
+          {
+            "question": "What should I do while waiting for the plumber to arrive?",
+            "answer": "If possible, shut off the water supply to the affected area. Also, try to contain the leak or backup to prevent further damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services is proud to offer comprehensive plumbing services to the residents of Scottsdale, Arizona. From the luxurious Southwestern estates to the more modest homes, we understand the unique plumbing needs of this vibrant community. We offer everything from leak detection and repair to full plumbing system installations and upgrades, addressing the specific challenges posed by the extreme summer heat, which can put extra stress on pipes and water systems.\n\nOur experienced team is equipped to handle any plumbing issue you may encounter in Scottsdale, whether it's a dripping faucet, a clogged drain, or a more complex problem like a sewer line backup. We use the latest technology and techniques to diagnose and resolve plumbing issues quickly and efficiently, minimizing disruption to your home and your life. We are committed to providing exceptional service and ensuring your complete satisfaction.",
+        "localContext": "Scottsdale is known for its luxury homes and resorts, requiring a high level of plumbing expertise and attention to detail, particularly during periods of extreme heat.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services provides expert plumbing services to Mesa, Arizona, including neighborhoods with many 1970s and 80s stucco homes. We understand the common plumbing issues that arise in older homes, such as corroded pipes, outdated fixtures, and sewer line problems. We offer a full range of services, from routine maintenance and repairs to complete plumbing system replacements, ensuring your home's plumbing is functioning efficiently and reliably.\n\nWe are also equipped to handle the plumbing challenges presented by Mesa's extreme summer heat. High temperatures can cause pipes to expand and contract, leading to leaks and other problems. Our team is experienced in identifying and addressing these issues, helping you avoid costly repairs down the road. We're dedicated to providing Mesa residents with prompt, professional, and affordable plumbing services.",
+        "localContext": "Mesa, with its mix of older and newer homes, requires expertise in both modern plumbing systems and the challenges associated with aging infrastructure.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services is dedicated to serving the plumbing needs of Chandler, Arizona, a city known for its well-planned communities and family-friendly atmosphere. We offer a comprehensive range of plumbing services to homeowners in Chandler, including leak detection and repair, drain cleaning, water heater installation and repair, and sewer line services. We understand the specific plumbing challenges that can arise in homes built in the 1990s and 2000s.\n\nWe are also well-versed in the impact that Chandler's extreme summer heat can have on plumbing systems. High temperatures can lead to pipe damage and increased water consumption. Our team is equipped to help you conserve water and protect your plumbing system from the effects of the desert climate. We strive to provide Chandler residents with reliable, affordable, and high-quality plumbing services.",
+        "localContext": "Chandler's planned developments often have specific plumbing requirements and HOA regulations that Phoenix Plumbers & Drain Clean Services is familiar with.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services is proud to serve the rapidly growing community of Gilbert, Arizona. With its abundance of newer construction homes from the 2000s to 2020s, Gilbert presents unique plumbing needs. We offer a full suite of services, including plumbing inspections, new construction plumbing installations, water softener installation, and drain cleaning. We ensure that your home's plumbing systems are installed correctly and functioning efficiently from the start.\n\nWe also understand the challenges posed by Gilbert's extreme summer heat. Our team is experienced in helping homeowners protect their plumbing systems from the effects of the desert climate, offering solutions such as pipe insulation and water-saving fixtures. We are committed to providing Gilbert residents with top-notch plumbing services at competitive prices.",
+        "localContext": "Gilbert's newer homes often feature advanced plumbing technologies and water conservation systems, requiring specialized knowledge and expertise.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services provides expert plumbing services to Tempe, Arizona. As a university town with a mix of older and newer homes, Tempe presents a unique set of plumbing challenges. We offer a wide range of services to meet the needs of Tempe residents, including leak detection and repair, drain cleaning, water heater services, and emergency plumbing repairs. We are experienced in working with the plumbing systems found in older homes near ASU, as well as the more modern systems in newer developments.\n\nWe are also aware of the impact that Tempe's extreme summer heat can have on plumbing systems. Our team is equipped to help you protect your pipes from the heat and conserve water. We are committed to providing Tempe residents with prompt, reliable, and affordable plumbing services.",
+        "localContext": "Tempe's high student population and older housing stock near ASU often lead to unique plumbing challenges, such as frequent clogs and leaks.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services is proud to serve the heart of Arizona, Phoenix. As the largest city in the state, Phoenix presents a diverse range of plumbing needs, from historic homes in downtown to modern residences in the suburbs. We offer comprehensive plumbing services to all Phoenix residents, including leak detection, drain cleaning, water heater repair and installation, and sewer line services. Our team is equipped to handle any plumbing issue, big or small.\n\nWe understand the impact of Phoenix's extreme summer heat on plumbing systems. High temperatures can cause pipes to crack and leak, leading to costly repairs. We offer preventative maintenance services to help you protect your plumbing system from the effects of the desert climate. We are committed to providing Phoenix residents with reliable, affordable, and high-quality plumbing services.",
+        "localContext": "Phoenix's diverse neighborhoods each have unique plumbing characteristics, from older infrastructure in historic districts to modern systems in newer developments.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Tempe",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services is proud to offer our expert plumbing services to the residents of Paradise Valley, Arizona. Known for its luxury homes and beautiful desert landscapes, Paradise Valley demands the highest quality plumbing services. We provide a range of services, including high-end fixture installation, leak detection using advanced technology, and comprehensive plumbing system maintenance. We understand the unique needs of luxury homes and are committed to exceeding expectations.\n\nOur team is also well-versed in the challenges posed by the Arizona climate. We offer solutions to protect your plumbing from the extreme heat, ensuring your home remains comfortable and efficient. We are committed to providing Paradise Valley residents with discreet, professional, and exceptional plumbing services.",
+        "localContext": "Paradise Valley's luxury homes often feature complex plumbing systems and high-end fixtures, requiring specialized expertise and attention to detail.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Scottsdale",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-az",
+        "state": "AZ",
+        "content": "Phoenix Plumbers & Drain Clean Services proudly extends its plumbing services to Glendale, Arizona. Glendale's diverse housing stock, from older homes to newer developments, requires a versatile plumbing approach. We offer comprehensive services, including leak detection and repair, drain cleaning, water heater installation and repair, and sewer line services. We are equipped to handle any plumbing issue, regardless of the age or style of your home.\n\nWe also understand the impact of Glendale's desert climate on plumbing systems. Our team is skilled in providing solutions to protect your pipes from extreme temperatures and conserve water. We are dedicated to providing Glendale residents with reliable, affordable, and efficient plumbing services.",
+        "localContext": "Glendale's mix of residential and commercial properties presents a variety of plumbing needs, from simple repairs to complex installations.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Peoria",
+          "Scottsdale"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Our old water heater finally gave out during the hottest week of July. Phoenix Plumbers & Drain Clean Services came out the same day and had a new one installed quickly. The technician was professional and explained everything clearly. Great service!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "Had a stubborn kitchen sink clog that I couldn't clear myself. They were able to get it flowing again in no time. The price was reasonable, and the plumber was friendly.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Sewer Line Repair",
+        "text": "We had a major sewer line backup that was causing serious problems. Phoenix Plumbers & Drain Clean Services used their camera to find the issue (tree roots!) and fixed it with minimal digging. Very impressed with their expertise.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Leak Detection",
+        "text": "We suspected a hidden leak because our water bill was unusually high. They used some kind of electronic device to pinpoint the leak behind a wall. They repaired the pipe quickly and saved us a lot of money on our water bill.",
+        "date": "2025-04-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Toilet Repair",
+        "text": "My toilet was constantly running, wasting water. They came out and replaced the flapper and fill valve. It's working perfectly now, and my water bill has gone down.",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Emergency Plumbing",
+        "text": "A pipe burst in the middle of the night, and they were here within an hour. They quickly stopped the leak and prevented major water damage. I was so relieved!",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Phoenix Plumbers | Local Plumbing Experts",
+        "description": "Reliable plumbing services in Phoenix AZ. 24/7 emergency service. Water heaters, drain cleaning, leak detection & more."
+      },
+      "about": {
+        "title": "About Phoenix Plumbers & Drain Clean Services",
+        "description": "Learn about our Phoenix plumbing company, our values, and our commitment to the community."
+      },
+      "services": {
+        "title": "Plumbing Services | Phoenix Plumbers",
+        "description": "Comprehensive plumbing services in Phoenix. Drain cleaning, water heater repair, leak detection, and more."
+      },
+      "contact": {
+        "title": "Contact Phoenix Plumbers & Drain Clean Services",
+        "description": "Contact us for reliable plumbing services in Phoenix. Call us today for a free estimate."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Phoenix Plumbers",
+        "description": "Read what our customers are saying about our Phoenix plumbing services. See why we're the trusted choice."
+      },
+      "service-areas": {
+        "title": "Service Areas | Phoenix Plumbers",
+        "description": "Phoenix Plumbers provides plumbing services to Phoenix and surrounding cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair": "/images/service-water-heater-repair.webp",
+      "leak-detection": "/images/service-leak-detection.webp",
+      "pipe-repair": "/images/service-pipe-repair.webp",
+      "sewer-line-services": "/images/service-sewer-line-services.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "emergency-plumbing": "/images/service-emergency-plumbing.webp"
+    },
+    "servicesResponsive": {
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair": {
+        "src": "/images/service-water-heater-repair.webp",
+        "srcset": "/images/service-water-heater-repair-400w.webp 400w, /images/service-water-heater-repair-800w.webp 800w, /images/service-water-heater-repair-1200w.webp 1200w, /images/service-water-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pipe-repair": {
+        "src": "/images/service-pipe-repair.webp",
+        "srcset": "/images/service-pipe-repair-400w.webp 400w, /images/service-pipe-repair-800w.webp 800w, /images/service-pipe-repair-1200w.webp 1200w, /images/service-pipe-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-services": {
+        "src": "/images/service-sewer-line-services.webp",
+        "srcset": "/images/service-sewer-line-services-400w.webp 400w, /images/service-sewer-line-services-800w.webp 800w, /images/service-sewer-line-services-1200w.webp 1200w, /images/service-sewer-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-plumbing": {
+        "src": "/images/service-emergency-plumbing.webp",
+        "srcset": "/images/service-emergency-plumbing-400w.webp 400w, /images/service-emergency-plumbing-800w.webp 800w, /images/service-emergency-plumbing-1200w.webp 1200w, /images/service-emergency-plumbing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
